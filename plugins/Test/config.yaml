@@ -1,0 +1,5 @@
+name: test
+editors:
+  tinymce:
+    extension: extension.tmpl
+
