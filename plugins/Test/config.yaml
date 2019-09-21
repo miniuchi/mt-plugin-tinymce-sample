@@ -1,5 +1,9 @@
 name: test
+description: TinyMCE のオプションを変更するサンプルプラグイン
 version: 0.01
+author_name: Six Apart Ltd.
+author_link: https://www.sixapart.jp/
+plugin_link: https://github.com/movabletype/mt-plugin-tinymce-sample
 editors:
   tinymce:
     extension: extension.tmpl
